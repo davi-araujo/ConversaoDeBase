@@ -1,10 +1,3 @@
-/*  INSTRUÇÕES DO CÓDIGO
-
-
-
-- Feito por: Davi Matias Araújo com ajudas de Gabriel Pires Martins
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

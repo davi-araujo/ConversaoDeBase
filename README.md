@@ -13,7 +13,10 @@ Este é um projeto com o intúito de fazer a conversão entre bases numéricas (
     5. Hexadecimal -> Binário - Quanto couber na string;
     6. Hexadecimal -> Decimal - Quanto couber na string.
 
-3. Caso o tamanho da string para números binários e hexadecimais não satisfaça o usuário, basta modificar o valor da variável 'n' na linha 14 para o tamanho desejável. 
+3. Caso o tamanho da string para números binários e hexadecimais não satisfaça o usuário, basta modificar o valor da variável 'n' na linha 14 para o tamanho desejável.
+
+### Requisitos
+1. Qualquer conpilador da linguagem C consegue compilar e rodar o código.
 
 ### Recomendações e Pedidos
 1. Quando for inserir um número em hexadecimal, por favor, insira as letras em maiúsculo.
